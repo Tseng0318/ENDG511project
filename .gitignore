@@ -1,0 +1,8 @@
+rust_dataset/
+
+# model/checkpoints
+*.pt
+*.pth
+
+# datasets
+rust_dataset/
