@@ -6,3 +6,13 @@ rust_dataset/
 
 # datasets
 rust_dataset/
+
+# macOS
+.DS_Store
+
+# datasets
+rust_dataset/
+
+# model checkpoints
+*.pt
+*.pth
