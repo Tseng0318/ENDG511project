@@ -16,3 +16,4 @@ rust_dataset/
 # model checkpoints
 *.pt
 *.pth
+.DS_Store
