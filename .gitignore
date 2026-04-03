@@ -6,6 +6,7 @@ rust_dataset/
 
 # datasets
 rust_dataset/
+rust_dataset_2/
 
 # macOS
 .DS_Store
@@ -17,3 +18,12 @@ rust_dataset/
 *.pt
 *.pth
 .DS_Store
+*.csv
+csv/
+pt/
+
+# ignore branch
+.claude/
+
+# ignore image
+*.png
