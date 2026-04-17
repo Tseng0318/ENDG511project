@@ -1,8 +1,5 @@
 rust_dataset/
 
-# model/checkpoints
-*.pt
-*.pth
 
 # datasets
 rust_dataset/
@@ -21,6 +18,7 @@ rust_dataset/
 *.csv
 csv/
 pt/
+model/
 
 # ignore branch
 .claude/
