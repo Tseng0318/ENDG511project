@@ -7,11 +7,6 @@
 - Washington, Ian
 
 
-Binary classification: **CORROSION** vs **NO CORROSION**  
-Dataset: 2,522 train | 653 val | 182 ID test | 850 OOD test | 183 grayscale test  
-Backbone: ResNet-18 (Supervised, SimCLR, SupCon, BYOL) · ViT-Base (fine-tuned)
-
-
 `Main files`
 
 - comparison_all_methods_v2.ipynb --> model comparison file
@@ -27,6 +22,10 @@ Backbone: ResNet-18 (Supervised, SimCLR, SupCon, BYOL) · ViT-Base (fine-tuned)
 - inference_test.ipynb --> script to run testing images
 - Corrosion_gui.py --> GUI to run real time inference on PC
 
+
+Binary classification: **CORROSION** vs **NO CORROSION**  
+Dataset: 2,522 train | 653 val | 182 ID test | 850 OOD test | 183 grayscale test  
+Backbone: ResNet-18 (Supervised, SimCLR, SupCon, BYOL) · ViT-Base (fine-tuned)
 ---
 
 ## 1. In-Distribution (ID) Test Results
