@@ -4,6 +4,13 @@ Binary classification: **CORROSION** vs **NO CORROSION**
 Dataset: 2,522 train | 653 val | 182 ID test | 850 OOD test | 183 grayscale test  
 Backbone: ResNet-18 (Supervised, SimCLR, SupCon, BYOL) · ViT-Base (fine-tuned)
 
+
+## Authors
+- Nechita, Matthew
+- Pacle, Kenshin
+- Tseng, KuoWei
+- Washington, Ian
+
 ---
 
 ## 1. In-Distribution (ID) Test Results
