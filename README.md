@@ -13,18 +13,18 @@ Backbone: ResNet-18 (Supervised, SimCLR, SupCon, BYOL) · ViT-Base (fine-tuned)
 
 `Main files`
 
-comparison_all_methods_v2.ipynb --> model comparison file
-domain_shift_grayscale_v2.ipynb --> evaluate on grayscale test image
-early_exit_combined2.ipynb --> implement early exit on SimCLR and Supervised Baseline
-early_exit_combined_compressed.ipynb --> apply model compression method
+- comparison_all_methods_v2.ipynb --> model comparison file
+- domain_shift_grayscale_v2.ipynb --> evaluate on grayscale test image
+- early_exit_combined2.ipynb --> implement early exit on SimCLR and Supervised Baseline
+- early_exit_combined_compressed.ipynb --> apply model compression method
 
 `Supporting files`
-Dr_professor_Kens_solution.ipynb --> ViT implementation
-Jestson_GUI.pu --> GUI to run real time inference on Jetson
-model_deploy.ipynb --> script to deploy models
-early_exit_solution.ipynb --> implement early exit
-inference_test.ipynb --> script to run testing images
-Corrosion_gui.py --> GUI to run real time inference on PC
+- Dr_professor_Kens_solution.ipynb --> ViT implementation
+- Jestson_GUI.pu --> GUI to run real time inference on Jetson
+- model_deploy.ipynb --> script to deploy models
+- early_exit_solution.ipynb --> implement early exit
+- inference_test.ipynb --> script to run testing images
+- Corrosion_gui.py --> GUI to run real time inference on PC
 
 ---
 
