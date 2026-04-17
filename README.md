@@ -26,6 +26,7 @@
 Binary classification: **CORROSION** vs **NO CORROSION**  
 Dataset: 2,522 train | 653 val | 182 ID test | 850 OOD test | 183 grayscale test  
 Backbone: ResNet-18 (Supervised, SimCLR, SupCon, BYOL) · ViT-Base (fine-tuned)
+
 Link to our dataset: https://drive.google.com/drive/folders/1NACujSYrEBCgM7UQQu9XI7XY986aINCJ?usp=sharing
 
 ---
