@@ -234,3 +234,9 @@ Notebooks:
 - `comparison_all_methods_v2.ipynb` — training, linear probe, OOD detection
 - `domain_shift_grayscale_v2.ipynb` — grayscale robustness evaluation
 
+References
+- J.-B. Grill et al., “Bootstrap your own latent: A new approach to self-supervised learning,” arXiv preprint arXiv:2006.07733, 2020. 
+- P. Khosla et al., “Supervised contrastive learning,” arXiv preprint arXiv:2004.11362, 2020. 
+- T. Chen, S. Kornblith, M. Norouzi, and G. Hinton, “A simple framework for contrastive learning of visual representations,” arXiv preprint arXiv:2002.05709, 2020.
+- K. He, X. Zhang, S. Ren, and J. Sun, “Deep residual learning for image recognition,” arXiv preprint arXiv:1512.03385, 2015.
+
