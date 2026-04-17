@@ -106,8 +106,8 @@ Models trained on RGB images were evaluated on a **grayscale copy** of the test 
 
 | Method | RGB Acc | Gray Acc | Acc Drop |
 |--------|:-------:|:--------:|:--------:|
-| Supervised | 0.9670 | 0.8681 | +0.0989 ❌ |
-| **SimCLR** | 0.8736 | **0.8846** | **−0.0110** ✅ |
+| Supervised | 0.9670 | 0.8681 | +0.0989 |
+| **SimCLR** | 0.8736 | **0.8846** | **−0.0110** |
 | SupCon | 0.9341 | 0.8846 | +0.0495 |
 | BYOL | 0.9341 | 0.9176 | +0.0165 |
 | ViT-Base | 0.9615 | 0.9286 | +0.0330 |
@@ -120,10 +120,10 @@ Models trained on RGB images were evaluated on a **grayscale copy** of the test 
 | Method | RGB Cos | Gray Cos | Cos Drop |
 |--------|:-------:|:--------:|:--------:|
 | Supervised | 0.8169 | 0.7490 | +0.0679 |
-| **SimCLR** | 0.7329 | 0.7351 | **−0.0022** ✅ |
+| **SimCLR** | 0.7329 | 0.7351 | **−0.0022** |
 | SupCon | 0.8051 | 0.7724 | +0.0327 |
-| **BYOL** | 0.7070 | 0.7128 | **−0.0058** ✅ |
-| ViT-Base | 0.5710 | 0.4861 | +0.0849 ❌ |
+| **BYOL** | 0.7070 | 0.7128 | **−0.0058** |
+| ViT-Base | 0.5710 | 0.4861 | +0.0849 |
 
 > SimCLR and BYOL show *negative* cosine drop — their feature space is inherently color-invariant.
 
